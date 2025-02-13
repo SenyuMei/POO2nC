@@ -30,3 +30,10 @@ nombre = apellido;
 console.log(nombre);
 
 // output: Mei
+
+let definir = "Definido";
+console.log(definir);
+definir = Indefinido;
+console.log(definir);
+
+// output; Indefinido
